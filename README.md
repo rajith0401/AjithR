@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,I'm Ajith R 👋</h1>
+<h1 align="center">Hi there,I'm Ajith R👋</h1>
 <h3 align="center">frontend developer!!</h3>
 
 - 👨‍💻 I’m currently doing on **projects myself.**
