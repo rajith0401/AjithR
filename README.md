@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ajith-r-82236a194/](https://tinyurl.com/2h9uv5bh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajith-r-82236a194/" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/https://www.linkedin.com/in/ajith-r-82236a194/](https://tinyurl.com/2h9uv5bh)](https://www.linkedin.com/in/ajith-r-82236a194/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajith-r-82236a194/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ajith._2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ajith._2000/" height="30" width="40" /></a>
 </p>
 
